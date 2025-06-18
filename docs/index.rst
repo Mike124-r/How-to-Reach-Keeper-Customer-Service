@@ -1,5 +1,5 @@
 
-How to Login to Peacock TV: A Step-by-Step Guide
+How to Reach Keeper Customer Service Easily
 ============================================
 
 .. toctree::
@@ -10,9 +10,9 @@ How to Login to Peacock TV: A Step-by-Step Guide
 
 .. image:: customer.jpg
    :alt: My Project Logo
-   :width: 200px
+   :width: 400px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://tek.chat/
 
 
 
