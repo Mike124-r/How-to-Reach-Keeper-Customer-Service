@@ -7,7 +7,7 @@ How to Login to Peacock TV: A Step-by-Step Guide
    :caption: Contents:
 
 
-image:: customer service.jpg
+.. image::customer service.jpg
 :target: https://tek.chat/
    :alt: customer service
    :width:200px
