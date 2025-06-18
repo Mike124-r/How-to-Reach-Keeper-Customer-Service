@@ -10,9 +10,9 @@ How to Login to Peacock TV: A Step-by-Step Guide
 
 .. image:: customer.jpg
    :alt: My Project Logo
-   :width: 350px
+   :width: 200px
    :align: center
-   :target: https://tek.chat/
+   :target: https://aclogportal.com/
 
 
 
