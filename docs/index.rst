@@ -2,15 +2,11 @@
 How to Login to Peacock TV: A Step-by-Step Guide
 ============================================
 
-.. toctree:: 360_F_30083605_nhQqi7Uhfi9mO31fC8r3Dmydqsma1Uuf.jpg
+.. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: 
-   :alt: My Project Logo
-   :width: 200px
-   :align: center
-   :target: https://tek.chat/
+
 
 
 
