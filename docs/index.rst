@@ -7,7 +7,12 @@ How to Login to Peacock TV: A Step-by-Step Guide
    :caption: Contents:
 
 
-
+image:: customer service.jpg
+:target: https://tek.chat/
+   :alt: customer service
+   :width:200px
+   :align:center
+   :margin:20px
 
 
 Keeper is a well-known name in the digital security market. They offer password management and cybersecurity solutions for people, families, and enterprises. Users may sometimes have technical or payment problems, have worries about security, or just need help figuring out how to utilize the interface. This is where Keeper's customer service becomes really important.
